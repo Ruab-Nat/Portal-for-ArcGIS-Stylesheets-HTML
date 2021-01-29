@@ -75,7 +75,7 @@ height: 0;
 }
 
 #topBanner {
-	background-image: url(https://www.eagleclawmidstream.com/wp-content/themes/eagleclaw/images/eagleclaw_logo.svg);
+	background-image: url(your_img_url);
         background-repeat: no-repeat; 
 	border-radius: 0px 0px 10px 10px; 
 	width: 960px; 
@@ -96,7 +96,7 @@ height: 0;
     width: auto;
     height: auto;
     z-index: -100;
-    background-image: url(https://i.imgur.com/F6yh3Oh.jpg);
+    background-image: url(your_img_url);
     background-size: cover;
     z-index: 0-100;
 }
