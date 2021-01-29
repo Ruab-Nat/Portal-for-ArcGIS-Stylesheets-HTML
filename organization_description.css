@@ -1,0 +1,30 @@
+<style>      
+.customContent {
+	margin-bottom: 35px;
+	text-align: center;
+}
+          
+.groupItem img {
+	background-color: rgba(119,119,119,.8);
+	-webkit-border-radius: 5px 5px 5px 5px;     
+	border-radius: 5px 5px 5px 5px;
+	padding: 8px;
+	margin: 0 10px 0 10px;
+}    
+
+.groupItem:hover img {
+	background-color: rgba(210,224,255,.4);
+	opacity: .95;
+}          
+</style>
+
+<div class="customContent">
+	<p class="groupItems">
+		<a class="groupItem" href="https://eagleclawmidstream.sharepoint.com/SitePages/Home.aspx" target="_blank" title="EagleNET">
+			<img alt="EagleNET" src="https://i.imgur.com/OlRP0Fn.png" />
+		</a>        
+		<a class="groupItem" href="https://gis.eagleclawmidstream.com/portal/apps/webappviewer/index.html?id=b9f8c70498fa41bead3efa36131f392b" target="_blank">
+			<img alt="Map Viewer" src="https://i.imgur.com/o92ro7J.png" />
+		</a>        
+    </p>
+</div>
