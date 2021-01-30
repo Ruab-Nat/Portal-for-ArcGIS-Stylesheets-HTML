@@ -12,7 +12,7 @@
 	text-align: center;
 }
 
-/* First row of buttons */
+/* First row of buttons  - border style*/
 .groupItem img {
 	background-color: rgba(119,119,119,.8);
 	-webkit-border-radius: 5px 5px 5px 5px;     
@@ -21,7 +21,7 @@
 	margin: 0 10px 0 10px;
 }
 
-/* Second row of buttons */
+/* Second row of buttons  - border style*/
 .groupItem2 img {
 	border: 3px solid black;
 	background-color: rgba(180, 32, 37, 0.8);
