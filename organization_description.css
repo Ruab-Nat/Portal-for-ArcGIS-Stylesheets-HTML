@@ -1,30 +1,71 @@
-<style>      
+<style> 
+
+/* First row button position */
 .customContent {
 	margin-bottom: 35px;
 	text-align: center;
 }
-          
+
+/* Second row button position */
+.customContent2 {
+	margin-bottom: 35px;
+	text-align: center;
+}
+
+/* First row of buttons */
 .groupItem img {
 	background-color: rgba(119,119,119,.8);
 	-webkit-border-radius: 5px 5px 5px 5px;     
 	border-radius: 5px 5px 5px 5px;
 	padding: 8px;
 	margin: 0 10px 0 10px;
-}    
+}
 
+/* Second row of buttons */
+.groupItem2 img {
+	border: 3px solid black;
+	background-color: rgba(180, 32, 37, 0.8);
+	-webkit-border-radius: 25px 25px 25px 25px;
+	border-radius: 25px 25px 25px 25px;
+	padding: 8px;
+	margin: 0 10px 0 10px;
+} 
+
+/* Hover colors for first row buttons */
 .groupItem:hover img {
 	background-color: rgba(210,224,255,.4);
 	opacity: .95;
-}          
+}
+
+/* Hover colors for second row buttons */
+.groupItem2:hover img {
+	background-color: rgba(210,224,255,.4);
+	opacity: .95;
+} 
+
 </style>
 
+/* First row of buttons */
 <div class="customContent">
 	<p class="groupItems">
-		<a class="groupItem" href="https://eagleclawmidstream.sharepoint.com/SitePages/Home.aspx" target="_blank" title="EagleNET">
+		<a class="groupItem" href="your_url_here" target="_blank" title="your_title">
+			<img alt="Your Img Name" src="your_img_url_here" />
+		</a>        
+		<a class="groupItem" href="your_url_here" target="_blank">
+			<img alt="Your Img Name" src="your_img_url_here" />
+		</a>
+	</p>
+</div
+
+
+/* Second row of buttons */
+<div class="customContent2">
+	<p class="groupItems2">
+		<a class="groupItem2 p.solid" href="your_url_here" target="_blank" title="your_title">
 			<img alt="EagleNET" src="https://i.imgur.com/OlRP0Fn.png" />
 		</a>        
-		<a class="groupItem" href="https://gis.eagleclawmidstream.com/portal/apps/webappviewer/index.html?id=b9f8c70498fa41bead3efa36131f392b" target="_blank">
-			<img alt="Map Viewer" src="https://i.imgur.com/o92ro7J.png" />
-		</a>        
-    </p>
-</div>
+		<a class="groupItem2" href="your_url_here" target="_blank">
+			<img alt="Your Img Name" src="your_img_url_here" />
+		</a>
+	</p>
+</div
