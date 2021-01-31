@@ -1,4 +1,4 @@
-# Portal-for-ArcGIS-Stylesheets
+# Portal-for-ArcGIS-Stylesheets-HTML
 Feel free to use these skeletons to override Esri defaults.
 
 'banner' only edits the top banner of the page. 
