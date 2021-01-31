@@ -1,5 +1,5 @@
 # Portal-for-ArcGIS-Stylesheets-HTML
-Feel free to use these skeletons to override Esri defaults and to spruce up your Portal and apps.
+Feel free to use these skeletons to override Esri defaults and to spruce up your Enterprise Portal and apps.
 
 ___
 
