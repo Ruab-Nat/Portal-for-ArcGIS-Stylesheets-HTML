@@ -1,9 +1,9 @@
 # Portal-for-ArcGIS-Stylesheets-HTML
 Feel free to use these skeletons to override Esri defaults.
 
-####Portal Homepage Folder
+#### Portal Homepage Folder
 
-#####'banner' only edits the top banner of the page. 
+##### 'banner' only edits the top banner of the page. 
 
 - In Portal for ArcGIS go to: Organization > Settings > Home Page
   
@@ -13,7 +13,7 @@ Feel free to use these skeletons to override Esri defaults.
   
 - Paste your modified 'banner' code into the box. Click save. All done.
 
-#####'organization_description' modifies both the gallery viewer and organization description.
+##### 'organization_description' modifies both the gallery viewer and organization description.
 	
 - In Portal for ArcGIS go to: Organization > Settings > Home Page
   
