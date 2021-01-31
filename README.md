@@ -26,3 +26,4 @@ Feel free to use these skeletons to override Esri defaults.
 - Paste your modified 'organization_description' code into the box. Click save. All done.
 
 _Note: The "Organization description" loves to erase formatted code, so I would recommend copy and pasting from your text/code editor back into this section to get your formatting back before modififying anything._
+___
