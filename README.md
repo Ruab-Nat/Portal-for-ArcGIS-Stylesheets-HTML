@@ -2,6 +2,7 @@
 Feel free to use these skeletons to override Esri defaults.
 
 ####Portal Homepage Folder
+
 #####'banner' only edits the top banner of the page. 
 
 - In Portal for ArcGIS go to: Organization > Settings > Home Page
